@@ -22,6 +22,10 @@ h1 {
     font-size: 6vh;
 }
 
+h3 {
+    font-size: 3vh;
+    color: rgb(0, 0, 0);
+}
 
 main{
     display: block;
@@ -34,39 +38,19 @@ main{
     height:80%;
     width: 25%;
     margin: auto;
-    text-align: center;
+    text-align: left;
     padding: 10px;
     border: 5px;
     border-radius: 3%;
 }
 
- input[type="text"]{
-     width: 65%;
-     height: 80%;
-     padding-left: 10px;
-     font-size: 20px;
-     background-color: bisque;
-     border: 0px;
-     border-radius: 7px;
- }
 
-#ln{
-    width: 40%;
-    height: 80%;
-    padding: 3%;
-    margin: 7% 0% 5% 0%; 
-    font-size: 15px;
-    background-color: bisque;
-    border: 0px;
-    border-radius: 7px;
+.publickKey{
+    background-color: antiquewhite;
+    height: 80px;
+    width: 80px;
 }
 
-
-.footer{
-    margin: 0% 1% 2% 0%;
-    height: 70px;
-    
-}
 
 
 
